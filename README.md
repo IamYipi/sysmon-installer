@@ -7,7 +7,7 @@ PowerShell Script for install Sysmon in a Windows Machine
 ~~~~
 Set-ExecutionPolicy UnRestricted -Force
 ~~~~
-- Go to the location where you downloaded the script
+- Go to the location where you downloaded the script and execute:
 ~~~~
 .\sysmon.ps1
 ~~~~
