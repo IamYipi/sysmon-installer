@@ -16,6 +16,6 @@ Set-ExecutionPolicy UnRestricted -Force
 
 ## Notes
 
-The configuration for sysmon is used in the script is from **[SwiftOnSecurity][https://github.com/SwiftOnSecurity]**.
+The configuration for sysmon is used in the script is from **[SwiftOnSecurity](https://github.com/SwiftOnSecurity)**.
 
-You can search another configurations in [sysmon-modular](https://github.com/olafhartong/sysmon-modular)** by [@olafhartong](https://twitter.com/olafhartong)
+You can search another configurations in **[sysmon-modular](https://github.com/olafhartong/sysmon-modular)** by [@olafhartong](https://twitter.com/olafhartong)
